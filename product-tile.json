@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Kristina Dam Oak Table With White Marble Top",
+        "price": "$ 799.55",
+        "imageUrl" : "images/tick.png"
+	},
+	{
+		"name": "Hay - About A Lounge Chair AAL 93",
+        "price": "$659.55",
+        "imageUrl" : "images/keyboard.png"
+    },
+    {
+		"name": "Cocktail Table Walnut | YES",
+        "price": "$ 299.99",
+        "imageUrl" : "images/clock.png"
+    },
+    {
+		"name": "TORY DESK CALENDAR",
+        "price": "$ 410.99",
+        "imageUrl" : "images/compas.png"
+	}
+]
